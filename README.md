@@ -5,7 +5,7 @@
 <br/>
 
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Designing+scalable+backend+systems+%26+REST+APIs;Java+%7C+Spring+Boot+%7C+FastAPI+%7C+MySQL;Software+Development+Intern+%40+IIITDM+Kancheepuram;Currently+leveling+up+in+Spring+Boot+%26+System+Design" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Designing+scalable+backend+systems+%26+REST+APIs;Java+%7C+Spring+Boot+%7C+FastAPI+%7C+MySQL;Software+Development+Intern+%40+IIITDM+Kancheepuram;Currently+leveling+up+in+Spring+Boot+%26+System+Design" alt="Typing SVG" width="100%"/>
 </a>
 
 <br/><br/>
@@ -45,7 +45,7 @@ I'm a final-stretch **B.Tech Computer Science (AI) student at IIITDM Kancheepura
 
 ## 🛠️ Tech Stack
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="65%" valign="top">
@@ -74,7 +74,7 @@ I'm a final-stretch **B.Tech Computer Science (AI) student at IIITDM Kancheepura
 
 <td width="35%" align="center">
 
-<img width="200" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img width="100%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 <br><br>
 
@@ -235,7 +235,7 @@ Over three months, I worked on **CodeTutor**, an AI-assisted programming educati
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg">
-    <img alt="GitHub Contribution Snake" src="./profile/snake.svg">
+    <img alt="GitHub Contribution Snake" src="./profile/snake.svg" width="100%">
   </picture>
 </p>
 
