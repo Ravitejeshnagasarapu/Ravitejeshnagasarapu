@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203A43,100:2C5364&height=260&section=header&text=Ravi%20Tejesh%20Nagasarapu&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Backend%20Engineer%20%C2%B7%20Java%20%7C%20Spring%20Boot%20%7C%20FastAPI&descAlignY=52&descSize=18&descColor=d6e4ea" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:203A43,100:2C5364&height=260&section=header&text=Ravi%20Tejesh%20Nagasarapu&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Backend%20Engineer%20%C2%B7%20Java%20%7C%20Spring%20Boot%20%7C%20FastAPI&descAlignY=52&descSize=18&descColor=d6e4ea" width="100%"/>
 
 <br/>
 
@@ -210,71 +210,88 @@ Over three months, I worked on **CodeTutor**, an AI-assisted programming educati
 
 ## 📊 GitHub Analytics & Activity
 
-<table width="100%">
-<tr>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=Ravitejeshnagasarapu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/></td>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravitejeshnagasarapu&layout=compact&theme=tokyonight&hide_border=true" width="100%"/></td>
-</tr>
-</table>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravitejeshnagasarapu&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=Ravitejeshnagasarapu&theme=tokyonight&hide_border=true" width="100%"/>
 </div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravitejeshnagasarapu&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
-
 <details>
-<summary>🐍 Contribution snake (optional — one-time setup)</summary>
+<summary><b>🔓 Unlock Stats, Top Languages, Trophies & Contribution Snake — one-time setup</b></summary>
 <br/>
 
-This animation renders a snake eating your contribution graph. It needs a small one-time GitHub Actions workflow in this repository to generate the SVG on a schedule — it won't render until that's added.
+The classic stats / top-languages / trophy cards run on shared free public endpoints (`github-readme-stats.vercel.app`, `github-profile-trophy.vercel.app`) that are frequently rate-limited by GitHub's API and go down under load — that's the documented, ongoing reliability issue that caused broken images earlier. Their own maintainers now recommend generating them as **static SVGs via GitHub Actions** instead, so they live in your repo and never depend on a third-party server being up.
+
+Add this single workflow to your **profile repository** (`Ravitejeshnagasarapu/Ravitejeshnagasarapu`) at `.github/workflows/analytics.yml`:
 
 ```yaml
-# .github/workflows/snake.yml
-name: Generate Snake
+name: Update README Cards
+
 on:
   schedule:
-    - cron: "0 0 * * *"
-  push:
-    branches: [ main ]
+    - cron: "0 3 * * *"
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
         with:
-          github_user_name: Ravitejeshnagasarapu
-          outputs: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate trophy card
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: ${{ github.repository_owner }}
+          output_path: profile/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: profile/snake.svg
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push
 ```
 
-Once the `output` branch exists, embed it with:
+Then embed the generated files directly from your repo (no external server involved):
 
 ```md
-![snake](https://raw.githubusercontent.com/Ravitejeshnagasarapu/Ravitejeshnagasarapu/output/github-contribution-grid-snake.svg)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Trophies](./profile/trophy.svg)
+![Snake](./profile/snake.svg)
 ```
 
+The workflow runs nightly and on-demand (`workflow_dispatch`), so the cards stay current without ever depending on someone else's uptime.
+
 </details>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ravitejeshnagasarapu&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
-</div>
 
 ---
 
@@ -293,7 +310,7 @@ I'm open to **Java / Backend Developer**, **Software Engineer**, and **Full-Stac
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0f2027&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2C5364,50:203A43,100:0f2027&height=150&section=footer" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=Ravitejeshnagasarapu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
