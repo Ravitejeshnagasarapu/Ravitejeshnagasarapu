@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:203A43,100:2C5364&height=260&section=header&text=Ravi%20Tejesh%20Nagasarapu&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Backend%20Engineer%20%C2%B7%20Java%20%7C%20Spring%20Boot%20%7C%20FastAPI&descAlignY=52&descSize=18&descColor=d6e4ea" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:203A43,100:2C5364&height=260&section=header&text=Ravi%20Tejesh%20Nagasarapu&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Backend%20Engineer%20%C2%B7%20Java%20%7C%20Python%20%7C%20Spring%20Boot%20%7C%20FastAPI&descAlignY=52&descSize=18&descColor=d6e4ea" width="100%"/>
 
 <br/>
 
@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/ROLE-Backend%20%2F%20Java%20Developer-0f2027?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/B.Tech-CSE%20(AI)%20%C2%B7%202023--2027-203A43?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/EX--INTERN-IIITDM%20Kancheepuram-2C5364?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LOCATION-India-1a1b27?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/LOCATION-Chennai, India-1a1b27?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
@@ -32,8 +32,8 @@
 I'm a final-stretch **B.Tech Computer Science (AI) student at IIITDM Kancheepuram**, focused on **backend engineering** - designing REST APIs, structuring maintainable services, and building systems that hold up under real use rather than just demoing well. I recently wrapped up a software development internship where I shipped backend features for an AI-powered ed-tech platform, and I build independent projects in Java and Python to keep sharpening those fundamentals.
 
 <table width="100%">
-<tr><td width="26%">🎓&nbsp;<b>Education</b></td><td>B.Tech, CSE (Artificial Intelligence) - IIITDM Kancheepuram · 2023–2027</td></tr>
-<tr><td>💼&nbsp;<b>Experience</b></td><td>Software Development Intern @ IIITDM Kancheepuram · May – Jul 2026</td></tr>
+<tr><td width="26%">🎓&nbsp;<b>Education</b></td><td>B.Tech, CSE (Artificial Intelligence) - IIITDM Kancheepuram · 2023-2027</td></tr>
+<tr><td>💼&nbsp;<b>Experience</b></td><td>Software Development Intern @ IIITDM Kancheepuram · May - Jul 2026</td></tr>
 <tr><td>🧱&nbsp;<b>Focus Areas</b></td><td>Backend Engineering · REST API Design · System Design · Clean Architecture</td></tr>
 <tr><td>🌱&nbsp;<b>Currently Learning</b></td><td>Spring Boot (Advanced) · Microservices · System Design · Data Structures & Algorithms</td></tr>
 <tr><td>📫&nbsp;<b>Reach Me</b></td><td><a href="mailto:ravitejesh23@gmail.com">ravitejesh23@gmail.com</a></td></tr>
@@ -45,26 +45,45 @@ I'm a final-stretch **B.Tech Computer Science (AI) student at IIITDM Kancheepura
 
 ## 🛠️ Tech Stack
 
-<table width="100%">
+<table>
 <tr>
-<td width="20%"><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=java,python,js,html,css"/></td>
-</tr>
-<tr>
-<td><b>Backend & APIs</b></td>
-<td><img src="https://skillicons.dev/icons?i=spring,fastapi"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/REST_APIs-1F6FEB?style=flat-square"/> <img src="https://img.shields.io/badge/API_Design-1F6FEB?style=flat-square"/></td>
-</tr>
-<tr>
-<td><b>Database</b></td>
-<td><img src="https://skillicons.dev/icons?i=mysql,sqlite"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/></td>
-</tr>
-<tr>
-<td><b>AI / ML</b></td>
-<td><img src="https://skillicons.dev/icons?i=pytorch"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Hugging_Face_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/LLM_Integration-412991?style=flat-square"/> <img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=flat-square"/></td>
-</tr>
-<tr>
-<td><b>Tools & Workflow</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/> <img src="https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square"/></td>
+
+<td width="65%" valign="top">
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=spring,fastapi,restapi" />
+</p>
+
+### Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sql" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+</td>
+
+<td width="35%" align="center">
+
+<img width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+<br><br>
+
+<b>Backend Engineering</b>
+
+<i>Building scalable APIs & software systems.</i>
+
+</td>
+
 </tr>
 </table>
 
@@ -148,7 +167,7 @@ A lightweight authentication and encryption framework for resource-constrained I
 <img src="https://skillicons.dev/icons?i=python,flask,sqlite,js"/>
 
 **Highlights**
-- Nonce-based challenge–response authentication using HMAC-SHA256, with pre-shared keys never sent over the network
+- Nonce-based challenge-response authentication using HMAC-SHA256, with pre-shared keys never sent over the network
 - End-to-end message encryption with AES-256-GCM and per-message random IVs
 - Real-time device communication over WebSockets (Flask-SocketIO)
 - Live attack-simulation module for replay, spoofing, and MITM attacks with a real-time security dashboard
@@ -169,14 +188,14 @@ A lightweight authentication and encryption framework for resource-constrained I
 
 ### Software Development Intern
 **Indian Institute of Information Technology, Design & Manufacturing (IIITDM), Kancheepuram**
-📅 May 2026 – July 2026 &nbsp;·&nbsp; Remote &nbsp;·&nbsp; Guided by **Dr. Noor Mahammad SK**, Head of Department, CSE
+📅 May 2026 - July 2026 &nbsp;·&nbsp; Remote &nbsp;·&nbsp; Guided by **Dr. Noor Mahammad SK**, Head of Department, CSE
 
 Over three months, I worked on **CodeTutor**, an AI-assisted programming education platform that helps learners write, understand, and debug code through an LLM-powered interactive environment. My work centered on the FastAPI backend: building the REST API layer, wiring up LLM-based code generation and analysis, and hardening secure code-execution workflows - all within a faculty-guided, institutional research setting.
 
 **What I worked on**
 - **Backend Development** - modular FastAPI services, REST APIs, structured validation, centralized error handling
 - **AI Integration** - LLM-powered code generation and analysis, response parsing for AI-generated outputs
-- **Software Engineering** - secure sandboxed code execution, debugging, testing, and frontend–backend integration
+- **Software Engineering** - secure sandboxed code execution, debugging, testing, and frontend-backend integration
 
 <details>
 <summary><b>📋 Full contribution breakdown</b></summary>
@@ -184,7 +203,7 @@ Over three months, I worked on **CodeTutor**, an AI-assisted programming educati
 
 **Backend Development**
 - Designed and implemented backend services using FastAPI
-- Developed RESTful APIs for frontend–backend communication
+- Developed RESTful APIs for frontend-backend communication
 - Enhanced API reliability through structured validation and centralized error handling
 - Improved backend maintainability using a modular architecture
 
@@ -197,7 +216,7 @@ Over three months, I worked on **CodeTutor**, an AI-assisted programming educati
 **Software Engineering**
 - Implemented secure, sandboxed code-execution workflows
 - Improved response parsing and backend processing
-- Assisted with frontend–backend integration
+- Assisted with frontend-backend integration
 - Participated in debugging, testing, and feature implementation
 - Contributed to overall platform stability and user experience
 
@@ -222,20 +241,43 @@ Over three months, I worked on **CodeTutor**, an AI-assisted programming educati
 
 ## 🤝 Let's Connect
 
-I'm open to **Java / Backend Developer**, **Software Engineer**, and **Full-Stack** roles, and always happy to talk backend architecture, REST API design, or open-source collaboration.
-
 <div align="center">
-<img src="https://skillicons.dev/icons?i=linkedin,github"/>
-<br/><br/>
-<a href="https://www.linkedin.com/in/ravitejeshnagasarapu"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ravitejesh23@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<a href="https://www.linkedin.com/in/ravitejeshnagasarapu">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/Ravitejeshnagasarapu">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://ravitejeshnagasarapu.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ravitejeshnagasarapu@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<br>
+
+<img src="https://img.shields.io/badge/Open%20To%20Work-22C55E?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work"/>
+
+<img src="https://img.shields.io/badge/Backend%20Developer-Java-orange?style=for-the-badge" alt="Backend Developer"/>
+
+<img src="https://img.shields.io/badge/Software%20Engineer-Ready-blue?style=for-the-badge" alt="Software Engineer"/>
+
+<br><br>
+
+<b>💼 Open to Java Backend Developer • Software Engineer • Full Stack Developer Opportunities</b>
+
+<i>Always open to internships, full-time roles, and open-source collaborations.</i>
+
 </div>
 
 <br/>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2C5364,50:203A43,100:0f2027&height=150&section=footer" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=Ravitejeshnagasarapu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
