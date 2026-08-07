@@ -227,17 +227,25 @@ Over three months, I worked on **CodeTutor**, an AI-assisted programming educati
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## 📊 GitHub Analytics
 
-<h3 align="center">🐍 Contribution Snake</h3>
+<div align="center">
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg">
-    <img alt="GitHub Contribution Snake" src="./profile/snake.svg" width="100%">
-  </picture>
-</p>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ravitejeshnagasarapu&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg">
+  <img src="./profile/snake.svg" alt="Contribution Snake"/>
+</picture>
+
+</div>
 
 ## 🤝 Let's Connect
 
