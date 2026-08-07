@@ -29,17 +29,17 @@
 
 ## 🧭 About
 
-I'm a final-stretch **B.Tech Computer Science (AI) student at IIITDM Kancheepuram**, focused on **backend engineering** — designing REST APIs, structuring maintainable services, and building systems that hold up under real use rather than just demoing well. I recently wrapped up a software development internship where I shipped backend features for an AI-powered ed-tech platform, and I build independent projects in Java and Python to keep sharpening those fundamentals.
+I'm a final-stretch **B.Tech Computer Science (AI) student at IIITDM Kancheepuram**, focused on **backend engineering** - designing REST APIs, structuring maintainable services, and building systems that hold up under real use rather than just demoing well. I recently wrapped up a software development internship where I shipped backend features for an AI-powered ed-tech platform, and I build independent projects in Java and Python to keep sharpening those fundamentals.
 
 <table width="100%">
-<tr><td width="26%">🎓&nbsp;<b>Education</b></td><td>B.Tech, CSE (Artificial Intelligence) — IIITDM Kancheepuram · 2023–2027</td></tr>
+<tr><td width="26%">🎓&nbsp;<b>Education</b></td><td>B.Tech, CSE (Artificial Intelligence) - IIITDM Kancheepuram · 2023–2027</td></tr>
 <tr><td>💼&nbsp;<b>Experience</b></td><td>Software Development Intern @ IIITDM Kancheepuram · May – Jul 2026</td></tr>
 <tr><td>🧱&nbsp;<b>Focus Areas</b></td><td>Backend Engineering · REST API Design · System Design · Clean Architecture</td></tr>
 <tr><td>🌱&nbsp;<b>Currently Learning</b></td><td>Spring Boot (Advanced) · Microservices · System Design · Data Structures & Algorithms</td></tr>
 <tr><td>📫&nbsp;<b>Reach Me</b></td><td><a href="mailto:ravitejesh23@gmail.com">ravitejesh23@gmail.com</a></td></tr>
 </table>
 
-> *"Good software isn't just working code — it's systems designed to stay reliable, maintainable, and scalable over time."*
+> *"Good software isn't just working code - it's systems designed to stay reliable, maintainable, and scalable over time."*
 
 ---
 
@@ -75,10 +75,10 @@ I'm a final-stretch **B.Tech Computer Science (AI) student at IIITDM Kancheepura
 <table width="100%">
 <tr><td>
 
-### 🤖&nbsp; CodeTutor — AI Tutor for Secure Programming Education
+### 🤖&nbsp; CodeTutor - AI Tutor for Secure Programming Education
 <img src="https://img.shields.io/badge/Private-lightgrey?style=flat-square&logo=lock&logoColor=white"/> <img src="https://img.shields.io/badge/Institutional_Research-lightgrey?style=flat-square"/> <img src="https://img.shields.io/badge/Internship_Project-lightgrey?style=flat-square"/>
 
-FastAPI backend for an LLM-integrated platform that helps students generate, explain, analyze, and securely execute code. Built during a faculty-guided internship at IIITDM Kancheepuram — full breakdown in the [Internship Experience](#-internship-experience) section below.
+FastAPI backend for an LLM-integrated platform that helps students generate, explain, analyze, and securely execute code. Built during a faculty-guided internship at IIITDM Kancheepuram - full breakdown in the [Internship Experience](#-internship-experience) section below.
 
 <img src="https://skillicons.dev/icons?i=python,fastapi"/>
 
@@ -88,7 +88,7 @@ FastAPI backend for an LLM-integrated platform that helps students generate, exp
 - Built secure, sandboxed code-execution workflows for running untrusted student code
 - Added structured request validation and centralized error handling
 
-**Status:** Repository is private under institutional research policy — source not publicly shareable.
+**Status:** Repository is private under institutional research policy - source not publicly shareable.
 
 </td></tr>
 </table>
@@ -96,7 +96,7 @@ FastAPI backend for an LLM-integrated platform that helps students generate, exp
 <table width="100%">
 <tr><td>
 
-### 🎬&nbsp; VidForge — Java Media Download Manager
+### 🎬&nbsp; VidForge - Java Media Download Manager
 <img src="https://img.shields.io/badge/Public-2ea44f?style=flat-square"/> <img src="https://img.shields.io/badge/Solo_Project-lightgrey?style=flat-square"/>
 
 A production-oriented desktop app that pairs a Java backend with **yt-dlp** and **FFmpeg** to deliver high-quality, resumable media downloads with a real-time web UI.
@@ -104,7 +104,7 @@ A production-oriented desktop app that pairs a Java backend with **yt-dlp** and 
 <img src="https://skillicons.dev/icons?i=java,html,css,js"/>
 
 **Highlights**
-- Real-time download progress via Server-Sent Events (SSE) — speed, ETA, live status
+- Real-time download progress via Server-Sent Events (SSE) - speed, ETA, live status
 - Multi-resolution video downloads (up to 4K) and MP3/FLAC audio extraction
 - Metadata, thumbnail, and subtitle embedding with automatic thumbnail caching
 - Automatic retry on recoverable network failures, plus cancellation and download history
@@ -122,14 +122,14 @@ A production-oriented desktop app that pairs a Java backend with **yt-dlp** and 
 ### 🗣️&nbsp; Controlled Natural Language to SQL Compiler
 <img src="https://img.shields.io/badge/Public-2ea44f?style=flat-square"/> <img src="https://img.shields.io/badge/Team_Project-lightgrey?style=flat-square"/>
 
-A full compiler pipeline that translates controlled English queries into executable SQL — built collaboratively as a systems/compiler-design project.
+A full compiler pipeline that translates controlled English queries into executable SQL - built collaboratively as a systems/compiler-design project.
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,sqlite,js"/>
 
 **Highlights**
 - Complete pipeline: lexical analysis → recursive-descent parsing → schema-aware semantic validation → SQL generation
 - Supports `SELECT`, `JOIN`, `GROUP BY`, `ORDER BY`, aggregates, and DML (`UPDATE`/`DELETE`) with mandatory `WHERE` clauses for safety
-- Interactive frontend visualizing every compiler stage — tokens, parse tree, generated SQL, and results
+- Interactive frontend visualizing every compiler stage - tokens, parse tree, generated SQL, and results
 - Schema-aware validation that catches type mismatches and unknown tables/columns before execution
 
 <a href="https://github.com/Ravitejeshnagasarapu/Controlled-Natural-Language-to-SQL-Compiler"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -140,7 +140,7 @@ A full compiler pipeline that translates controlled English queries into executa
 <table width="100%">
 <tr><td>
 
-### 🔐&nbsp; SIOTDA — Secure IoT Device Authentication Using Lightweight Cryptography
+### 🔐&nbsp; SIOTDA - Secure IoT Device Authentication Using Lightweight Cryptography
 <img src="https://img.shields.io/badge/Public-2ea44f?style=flat-square"/> <img src="https://img.shields.io/badge/Team_Project-lightgrey?style=flat-square"/>
 
 A lightweight authentication and encryption framework for resource-constrained IoT devices, with a built-in attack simulator to validate the defenses it implements.
@@ -153,7 +153,7 @@ A lightweight authentication and encryption framework for resource-constrained I
 - Real-time device communication over WebSockets (Flask-SocketIO)
 - Live attack-simulation module for replay, spoofing, and MITM attacks with a real-time security dashboard
 
-**Architecture:** Three-tier design — HTML/JS + Web Crypto API frontend, Flask/Flask-SocketIO backend, SQLite (WAL mode) persistence — plus a WebSocket layer for real-time events.
+**Architecture:** Three-tier design - HTML/JS + Web Crypto API frontend, Flask/Flask-SocketIO backend, SQLite (WAL mode) persistence - plus a WebSocket layer for real-time events.
 
 <a href="https://github.com/Ravitejeshnagasarapu/Secure-IoT-Device-Authentication-Using-Lightweight-Cryptography"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
@@ -171,12 +171,12 @@ A lightweight authentication and encryption framework for resource-constrained I
 **Indian Institute of Information Technology, Design & Manufacturing (IIITDM), Kancheepuram**
 📅 May 2026 – July 2026 &nbsp;·&nbsp; Remote &nbsp;·&nbsp; Guided by **Dr. Noor Mahammad SK**, Head of Department, CSE
 
-Over three months, I worked on **CodeTutor**, an AI-assisted programming education platform that helps learners write, understand, and debug code through an LLM-powered interactive environment. My work centered on the FastAPI backend: building the REST API layer, wiring up LLM-based code generation and analysis, and hardening secure code-execution workflows — all within a faculty-guided, institutional research setting.
+Over three months, I worked on **CodeTutor**, an AI-assisted programming education platform that helps learners write, understand, and debug code through an LLM-powered interactive environment. My work centered on the FastAPI backend: building the REST API layer, wiring up LLM-based code generation and analysis, and hardening secure code-execution workflows - all within a faculty-guided, institutional research setting.
 
 **What I worked on**
-- **Backend Development** — modular FastAPI services, REST APIs, structured validation, centralized error handling
-- **AI Integration** — LLM-powered code generation and analysis, response parsing for AI-generated outputs
-- **Software Engineering** — secure sandboxed code execution, debugging, testing, and frontend–backend integration
+- **Backend Development** - modular FastAPI services, REST APIs, structured validation, centralized error handling
+- **AI Integration** - LLM-powered code generation and analysis, response parsing for AI-generated outputs
+- **Software Engineering** - secure sandboxed code execution, debugging, testing, and frontend–backend integration
 
 <details>
 <summary><b>📋 Full contribution breakdown</b></summary>
@@ -239,6 +239,6 @@ I'm open to **Java / Backend Developer**, **Software Engineer**, and **Full-Stac
 
 <img src="https://komarev.com/ghpvc/?username=Ravitejeshnagasarapu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
-**Thanks for stopping by — happy building 🚀**
+**Thanks for stopping by - happy building 🚀**
 
 </div>
