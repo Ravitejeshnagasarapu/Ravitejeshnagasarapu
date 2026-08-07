@@ -210,90 +210,15 @@ Over three months, I worked on **CodeTutor**, an AI-assisted programming educati
 
 ## 📊 GitHub Analytics & Activity
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravitejeshnagasarapu&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
+<h3 align="center">🐍 Contribution Snake</h3>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=Ravitejeshnagasarapu&theme=tokyonight&hide_border=true" width="100%"/>
-</div>
-
-<details>
-<summary><b>🔓 Unlock Stats, Top Languages, Trophies & Contribution Snake — one-time setup</b></summary>
-<br/>
-
-The classic stats / top-languages / trophy cards run on shared free public endpoints (`github-readme-stats.vercel.app`, `github-profile-trophy.vercel.app`) that are frequently rate-limited by GitHub's API and go down under load — that's the documented, ongoing reliability issue that caused broken images earlier. Their own maintainers now recommend generating them as **static SVGs via GitHub Actions** instead, so they live in your repo and never depend on a third-party server being up.
-
-Add this single workflow to your **profile repository** (`Ravitejeshnagasarapu/Ravitejeshnagasarapu`) at `.github/workflows/analytics.yml`:
-
-```yaml
-name: Update README Cards
-
-on:
-  schedule:
-    - cron: "0 3 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate trophy card
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        with:
-          username: ${{ github.repository_owner }}
-          output_path: profile/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate contribution snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: profile/snake.svg
-
-      - name: Commit cards
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
-          git add profile/*.svg
-          git commit -m "Update README cards" || exit 0
-          git push
-```
-
-Then embed the generated files directly from your repo (no external server involved):
-
-```md
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Trophies](./profile/trophy.svg)
-![Snake](./profile/snake.svg)
-```
-
-The workflow runs nightly and on-demand (`workflow_dispatch`), so the cards stay current without ever depending on someone else's uptime.
-
-</details>
-
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg">
+    <img alt="GitHub Contribution Snake" src="./profile/snake.svg">
+  </picture>
+</p>
 
 ## 🤝 Let's Connect
 
