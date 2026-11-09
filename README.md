@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ======================== 3D ANIMATED AURORA WAVE HEADER ======================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050814,25:0F172A,55:1E3A8A,80:4F46E5,100:06B6D4&height=280&section=header&text=Ravi%20Tejesh%20Nagasarapu&fontSize=46&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=%E2%9A%A1%20BACKEND%20ENGINEER%20%C2%B7%20JAVA%20%7C%20PYTHON%20%7C%20SPRING%20BOOT%20%7C%20FASTAPI%20%E2%9A%A1&descAlignY=56&descSize=17&descColor=38BDF8&stroke=00F2FE&strokeWidth=1" width="100%" alt="Ravi Tejesh Nagasarapu — Animated 3D Waving Hero Banner" />
+<img src="profile/banner.svg" />
 
 <!-- ======================== MULTI-LINE ANIMATED TYPING TERMINAL ======================== -->
 <a href="https://github.com/Ravitejeshnagasarapu">
