@@ -1,303 +1,367 @@
 <div align="center">
 
-<!-- ======================== HERO BANNER ======================== -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B0F19,50:111827,100:1E293B&height=240&section=header&text=Ravi%20Tejesh%20Nagasarapu&fontSize=42&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=BACKEND%20ENGINEER%20%C2%B7%20JAVA%20%7C%20PYTHON%20%7C%20SPRING%20BOOT%20%7C%20FASTAPI&descAlignY=60&descSize=16&descColor=38BDF8&stroke=3B82F6&strokeWidth=1" width="100%" alt="Ravi Tejesh Nagasarapu — Backend Engineer Banner" />
+<!-- ======================== 3D ANIMATED AURORA WAVE HEADER ======================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050814,25:0F172A,55:1E3A8A,80:4F46E5,100:06B6D4&height=280&section=header&text=Ravi%20Tejesh%20Nagasarapu&fontSize=46&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=%E2%9A%A1%20BACKEND%20ENGINEER%20%C2%B7%20JAVA%20%7C%20PYTHON%20%7C%20SPRING%20BOOT%20%7C%20FASTAPI%20%E2%9A%A1&descAlignY=56&descSize=17&descColor=38BDF8&stroke=00F2FE&strokeWidth=1" width="100%" alt="Ravi Tejesh Nagasarapu — Animated 3D Waving Hero Banner" />
 
-<!-- ======================== ANIMATED TYPING SUBTITLE ======================== -->
+<!-- ======================== MULTI-LINE ANIMATED TYPING TERMINAL ======================== -->
 <a href="https://github.com/Ravitejeshnagasarapu">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=820&height=45&lines=Architecting+reliable+backend+services+%26+production-grade+REST+APIs;Java+%C2%B7+Python+%C2%B7+Spring+Boot+%C2%B7+FastAPI+%C2%B7+Relational+Databases;Software+Development+Intern+%40+IIITDM+Kancheepuram+(CodeTutor);B.Tech+Computer+Science+(AI)+%40+IIITDM+Kancheepuram+(2023%E2%80%932027)" alt="Animated Backend Engineering Headlines" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&width=900&height=55&lines=%F0%9F%9A%80+Architecting+Scalable+Backend+Systems+%26+High-Throughput+REST+APIs;%E2%9A%99%EF%B8%8F+Java+%C2%B7+Spring+Boot+%C2%B7+Python+%C2%B7+FastAPI+%C2%B7+Flask+%C2%B7+MySQL+%C2%B7+SQLite;%F0%9F%94%90+Building+Sandboxed+LLM+Runtimes%2C+SQL+Compilers+%26+IoT+Crypto+Engines;%F0%9F%8E%93+B.Tech+CSE+(AI)+%40+IIITDM+Kancheepuram+%7C+Ex-SDE+Intern+(CodeTutor)" alt="Animated Typing Terminal" width="100%" />
 </a>
 
-<!-- ======================== STATUS & IDENTITY BADGES ======================== -->
+<!-- ======================== 3D NEON STATUS & IDENTITY PILLS ======================== -->
 <p align="center">
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-10B981?style=for-the-badge&labelColor=0B0F19" alt="Status: Open to Work" />
-<img src="https://img.shields.io/badge/FOCUS-BACKEND%20%26%20API%20ENGINEERING-3B82F6?style=for-the-badge&labelColor=0B0F19" alt="Focus: Backend and API Engineering" />
-<img src="https://img.shields.io/badge/INSTITUTE-IIITDM%20KANCHEEPURAM-06B6D4?style=for-the-badge&labelColor=0B0F19" alt="Institute: IIITDM Kancheepuram" />
-<img src="https://img.shields.io/badge/LOCATION-CHENNAI%2C%20INDIA-64748B?style=for-the-badge&labelColor=0B0F19" alt="Location: Chennai, India" />
+<img src="https://img.shields.io/badge/%E2%97%8F%20STATUS-OPEN%20TO%20WORK-10B981?style=for-the-badge&labelColor=050814" alt="Status: Open to Work" />
+<img src="https://img.shields.io/badge/DOMAIN-BACKEND%20%26%20SYSTEMS%20ENGINEERING-3B82F6?style=for-the-badge&labelColor=050814" alt="Domain: Backend and Systems Engineering" />
+<img src="https://img.shields.io/badge/EDUCATION-B.TECH%20CSE%20(AI)%20%40%20IIITDM-8B5CF6?style=for-the-badge&labelColor=050814" alt="Education: B.Tech CSE AI at IIITDM Kancheepuram" />
+<img src="https://img.shields.io/badge/LOCATION-CHENNAI%2C%20INDIA-F43F5E?style=for-the-badge&labelColor=050814&logo=googlemaps&logoColor=white" alt="Location: Chennai, India" />
 </p>
 
-<!-- ======================== PRIMARY NAVIGATION & SOCIAL LINKS ======================== -->
+<!-- ======================== GLOWING SOCIAL COMMAND BAR ======================== -->
 <p align="center">
 <a href="https://www.linkedin.com/in/ravitejeshnagasarapu">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1120" alt="LinkedIn Profile" />
 </a>
 &nbsp;
 <a href="https://ravitejeshnagasarapu.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-3B82F6?style=flat-square&logo=googlechrome&logoColor=white" alt="Personal Portfolio Website" />
+<img src="https://img.shields.io/badge/Portfolio-Live_Showcase-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=050814&labelColor=0B1120" alt="Personal Portfolio Website" />
 </a>
 &nbsp;
 <a href="https://github.com/Ravitejeshnagasarapu">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
+<img src="https://img.shields.io/badge/GitHub-Ravitejeshnagasarapu-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1120" alt="GitHub Profile" />
 </a>
 &nbsp;
 <a href="mailto:ravitejesh23@gmail.com">
-<img src="https://img.shields.io/badge/Email-ravitejesh23%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email: ravitejesh23@gmail.com" />
+<img src="https://img.shields.io/badge/Gmail-ravitejesh23%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1120" alt="Email: ravitejesh23@gmail.com" />
 </a>
 </p>
 
 </div>
 
-<!-- ======================== SECTION 01: ABOUT ME ======================== -->
+<!-- ANIMATED GRADIENT DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,35:3B82F6,70:8B5CF6,100:EC4899&height=3" width="100%" alt="Neon Gradient Divider" />
 
-01  Engineering Profile
+<!-- ======================== SECTION 01: ENGINEERING PROFILE ======================== -->
 
-I am a B.Tech Computer Science and Engineering (Artificial Intelligence) undergraduate at IIITDM Kancheepuram (2023–2027), specializing in backend software engineering. My work centers on designing clean RESTful APIs, building modular service architectures in Java (Spring Boot) and Python (FastAPI / Flask), and engineering resilient systems that handle untrusted inputs, real-time data streams, and cryptographic security constraints.
+⚡ 01 · Engineering Identity & System Architecture
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle">
+<p>
+I am a final-stretch <b>B.Tech Computer Science and Engineering (Artificial Intelligence)</b> student at <a href="https://www.iiitdm.ac.in/"><b>IIITDM Kancheepuram</b></a> (<code>2023–2027</code>), focused on building <b>high-reliability backend systems</b>.
+</p>
+<p>
+Rather than building surface-level wrappers, I engineer complete backend pipelines—from <b>sandboxed multi-LLM code execution engines</b> and <b>deterministic SQL compilers</b> to <b>real-time SSE media orchestrators</b> and <b>lightweight IoT cryptographic protocols</b>.
+</p>
+<p>
+<img src="https://img.shields.io/badge/%E2%9C%94%20Clean_Architecture-00F2FE?style=flat-square&labelColor=0B0F19" alt="Clean Architecture" />
+<img src="https://img.shields.io/badge/%E2%9C%94%20RESTful_API_Design-3B82F6?style=flat-square&labelColor=0B0F19" alt="RESTful API Design" />
+<img src="https://img.shields.io/badge/%E2%9C%94%20Sandboxed_Execution-8B5CF6?style=flat-square&labelColor=0B0F19" alt="Sandboxed Execution" />
+<img src="https://img.shields.io/badge/%E2%9C%94%20Applied_Cryptography-10B981?style=flat-square&labelColor=0B0F19" alt="Applied Cryptography" />
+</p>
+</td>
+<td width="38%" valign="top">
+<pre lang="yaml">
+┌──────────────────────────────────────────┐
+│  🖥️  SYSTEM TELEMETRY :: RAVI TEJESH     │
+├──────────────────────────────────────────┤
+│  Role      : Backend Software Engineer   │
+│  Degree    : B.Tech CSE (AI) [2023-2027] │
+│  Institute : IIITDM Kancheepuram         │
+│  Intern    : SDE Intern (May - Jul 2026) │
+│  Stack     : Java · Python · Spring Boot │
+│  APIs      : FastAPI · Flask · REST · SSE│
+│  Status    : 🟢 Open to Opportunities    │
+└──────────────────────────────────────────┘</pre>
+</td>
+</tr>
+</table>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<h4>🏛️ &nbsp;Academic &amp; Professional Foundation</h4>
+<h4>🏛️ &nbsp;Academic &amp; Research Pedigree</h4>
 <ul>
-<li><b>Degree:</b> B.Tech in Computer Science &amp; Engineering (AI)</li>
-<li><b>Institution:</b> <a href="https://www.iiitdm.ac.in/">IIITDM Kancheepuram</a> (2023 – 2027)</li>
-<li><b>Internship:</b> Software Development Intern @ IIITDM Kancheepuram (May – Jul 2026)</li>
-<li><b>Base:</b> Chennai, Tamil Nadu, India</li>
+<li><b>Degree Program:</b> B.Tech in Computer Science &amp; Engineering (AI Specialization)</li>
+<li><b>Institution:</b> <a href="https://www.iiitdm.ac.in/">IIITDM Kancheepuram</a> (Institute of National Importance)</li>
+<li><b>Research Internship:</b> Software Development Intern under <b>Dr. Noor Mahammad SK</b> (HOD, CSE)</li>
+<li><b>Location:</b> Chennai, Tamil Nadu, India</li>
 </ul>
 </td>
 <td width="50%" valign="top">
-<h4>⚙️ &nbsp;Engineering Focus &amp; Trajectory</h4>
+<h4>🚀 &nbsp;Current Engineering Focus</h4>
 <ul>
-<li><b>Core Domain:</b> Backend Architecture, REST API Design &amp; Service Reliability</li>
-<li><b>Systems Work:</b> Sandboxed Code Execution, Compiler Pipelines &amp; IoT Security</li>
-<li><b>Active Upskilling:</b> Advanced Spring Boot, Microservices &amp; System Design</li>
-<li><b>Target Roles:</b> Backend Engineer · Java Developer · Software Engineer</li>
+<li><b>Backend Mastery:</b> Spring Boot Microservices, FastAPI Async Concurrency &amp; Schema Design</li>
+<li><b>Systems Engineering:</b> Compiler Construction, Real-Time Streaming (SSE / WebSockets)</li>
+<li><b>Security &amp; Sandboxing:</b> Untrusted Code Isolation, <code>HMAC-SHA256</code> &amp; <code>AES-256-GCM</code></li>
+<li><b>Career Target:</b> Backend Engineer · Java Developer · Software Engineer (SDE)</li>
 </ul>
 </td>
 </tr>
 </table>
 
-"Good software isn't just working code — it's systems designed to stay reliable, maintainable, and scalable over time."
+💡 "Good software isn't just working code — it's systems designed to stay reliable, maintainable, and scalable over time."
 
-<!-- ======================== SECTION 02: TECHNICAL SKILLS ======================== -->
+<!-- ANIMATED GRADIENT DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,35:8B5CF6,70:3B82F6,100:00F2FE&height=3" width="100%" alt="Neon Gradient Divider" />
 
-02  Technical Arsenal
+<!-- ======================== SECTION 02: 3D TECH STACK SHOWCASE ======================== -->
 
-<table width="100%">
-<thead>
-<tr>
-<th width="22%" align="left">Category</th>
-<th width="38%" align="left">Technologies &amp; Frameworks</th>
-<th width="40%" align="left">Visual Stack</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><b>Programming Languages</b></td>
-<td>Java, Python, SQL, JavaScript, HTML5, CSS3</td>
-<td>
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" height="36" alt="Java, Python, JavaScript, HTML5, CSS3" />
-</td>
-</tr>
-<tr>
-<td><b>Backend Development</b></td>
-<td>Spring Boot, FastAPI, Flask, RESTful APIs, Flask-SocketIO (WebSockets), Server-Sent Events (SSE)</td>
-<td>
-<img src="https://skillicons.dev/icons?i=spring,fastapi,flask&theme=dark" height="36" alt="Spring Boot, FastAPI, Flask" />
-</td>
-</tr>
-<tr>
-<td><b>Databases &amp; Storage</b></td>
-<td>MySQL, SQLite (WAL Mode), Schema Design, Query Optimization</td>
-<td>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" height="36" alt="MySQL, SQLite" />
-</td>
-</tr>
-<tr>
-<td><b>Developer Tools &amp; OS</b></td>
-<td>Git, GitHub, VS Code, Linux Environment, CLI Tooling</td>
-<td>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" height="36" alt="Git, GitHub, VS Code, Linux" />
-</td>
-</tr>
-<tr>
-<td><b>Applied Domains &amp; Libraries</b></td>
-<td>LLM API Integration, Sandboxed Execution, HMAC-SHA256 &amp; AES-256-GCM Cryptography, Recursive-Descent Parsing, <code>yt-dlp</code> &amp; <code>FFmpeg</code></td>
-<td>
-<img src="https://img.shields.io/badge/LLM_Orchestration-0B0F19?style=flat-square&logoColor=38BDF8" alt="LLM Orchestration" />
-<img src="https://img.shields.io/badge/Cryptography-0B0F19?style=flat-square&logoColor=06B6D4" alt="Cryptography" />
-<img src="https://img.shields.io/badge/Compiler_Design-0B0F19?style=flat-square&logoColor=3B82F6" alt="Compiler Design" />
-</td>
-</tr>
-</tbody>
-</table>
-
-<!-- ======================== SECTION 03: INTERNSHIP EXPERIENCE ======================== -->
-
-03  Professional Experience
-
-<table width="100%">
-<tr>
-<td valign="top">
-<p>
-<img src="https://img.shields.io/badge/MAY%202026%20%E2%80%93%20JULY%202026-3B82F6?style=flat-square" alt="May 2026 to July 2026" />
-&nbsp;
-<img src="https://img.shields.io/badge/REMOTE%20%C2%B7%20INSTITUTIONAL%20RESEARCH-0F172A?style=flat-square" alt="Remote Institutional Research" />
-&nbsp;
-<img src="https://img.shields.io/badge/PROJECT-CODETUTOR-06B6D4?style=flat-square" alt="Project: CodeTutor" />
-</p>
-<h3>Software Development Intern — <a href="https://www.iiitdm.ac.in/">IIITDM Kancheepuram</a></h3>
-<p>
-<b>Organization:</b> Indian Institute of Information Technology, Design &amp; Manufacturing (IIITDM), Kancheepuram<br/>
-<b>Faculty Supervisor:</b> Dr. Noor Mahammad SK, Head of Department, Department of Computer Science &amp; Engineering
-</p>
-<p>
-Engineered the core <b>FastAPI backend</b> for <b>CodeTutor</b>, an AI-assisted programming education platform built to help students generate, understand, analyze, and safely execute code within an interactive learning environment.
-</p>
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-<b>🧱 Backend Architecture &amp; APIs</b>
-<ul>
-<li>Designed modular FastAPI service layers and RESTful endpoints for seamless frontend-backend communication.</li>
-<li>Enforced structured request validation and centralized exception handling to improve API reliability.</li>
-</ul>
-</td>
-<td width="33%" valign="top">
-<b>🤖 Multi-LLM Integration</b>
-<ul>
-<li>Integrated multiple Large Language Models into backend workflows for automated code generation and explanation.</li>
-<li>Built deterministic response-parsing pipelines to sanitize and structure AI-generated outputs.</li>
-</ul>
-</td>
-<td width="34%" valign="top">
-<b>🛡️ Secure Code Execution &amp; QA</b>
-<ul>
-<li>Implemented sandboxed execution workflows to safely run and evaluate untrusted student code submissions.</li>
-<li>Collaborated on end-to-end integration testing, latency debugging, and platform stability.</li>
-</ul>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<!-- ======================== SECTION 04: FEATURED PROJECTS ======================== -->
-
-04  Featured Engineering Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<h3>01 · CodeTutor — AI Tutor for Secure Programming Education</h3>
-<p>
-<img src="https://img.shields.io/badge/STATUS-PRIVATE%20RESEARCH-64748B?style=flat-square&logo=lock&logoColor=white" alt="Private Institutional Repository" />
-<img src="https://img.shields.io/badge/ROLE-BACKEND%20INTERN-3B82F6?style=flat-square" alt="Backend Intern" />
-</p>
-<p>
-An LLM-integrated educational platform developed at IIITDM Kancheepuram that enables students to generate, explain, statically analyze, and securely run code inside an isolated environment.
-</p>
-<p><b>Tech Stack:</b> <code>Python</code> · <code>FastAPI</code> · <code>REST APIs</code> · <code>Multi-LLM Inference</code> · <code>Sandboxed Execution</code></p>
-<p><b>Architecture &amp; Engineering Contributions:</b></p>
-<ul>
-<li>Architected REST API contracts bridging the interactive web client, FastAPI service layer, and LLM inference engines.</li>
-<li>Engineered isolated, sandboxed code-execution pipelines to prevent resource exhaustion and unauthorized system calls when running student code.</li>
-<li>Standardized schema validation and centralized error-handling middleware across all backend routes.</li>
-</ul>
-<p>
-<img src="https://img.shields.io/badge/Repository-Institutional_Policy_(Private)-1E293B?style=for-the-badge&logo=github&logoColor=94A3B8" alt="Private Institutional Repository" />
-</p>
-</td>
-<td width="50%" valign="top">
-<h3>02 · <a href="https://github.com/Ravitejeshnagasarapu/VidForge">VidForge</a> — Java Media Download Manager</h3>
-<p>
-<img src="https://img.shields.io/badge/STATUS-PUBLIC%20REPO-10B981?style=flat-square" alt="Public Repository" />
-<img src="https://img.shields.io/badge/TYPE-SOLO%20PROJECT-06B6D4?style=flat-square" alt="Solo Project" />
-</p>
-<p>
-A production-oriented media download manager that pairs a modular Java backend with <code>yt-dlp</code> and <code>FFmpeg</code> to deliver resumable, multi-resolution downloads with a real-time web UI.
-</p>
-<p><b>Tech Stack:</b> <code>Java</code> · <code>Server-Sent Events (SSE)</code> · <code>yt-dlp</code> · <code>FFmpeg</code> · <code>HTML5 / CSS3 / JS</code></p>
-<p><b>Architecture &amp; Engineering Highlights:</b></p>
-<ul>
-<li>Decoupled the Java download orchestration engine from the process controller coordinating <code>yt-dlp</code> and <code>FFmpeg</code> pipelines.</li>
-<li>Streamed real-time telemetry (download speed, ETA, and job state) to the web client via Server-Sent Events (SSE).</li>
-<li>Supported up to 4K video downloads, MP3/FLAC audio extraction, metadata/subtitle embedding, thumbnail caching, and automatic network retry.</li>
-</ul>
-<p>
-<a href="https://github.com/Ravitejeshnagasarapu/VidForge">
-<img src="https://img.shields.io/badge/Explore_Repository-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="Explore VidForge Repository" />
-</a>
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>03 · <a href="https://github.com/Ravitejeshnagasarapu/Controlled-Natural-Language-to-SQL-Compiler">Controlled Natural Language to SQL Compiler</a></h3>
-<p>
-<img src="https://img.shields.io/badge/STATUS-PUBLIC%20REPO-10B981?style=flat-square" alt="Public Repository" />
-<img src="https://img.shields.io/badge/TYPE-TEAM%20SYSTEMS%20PROJECT-06B6D4?style=flat-square" alt="Team Systems Project" />
-</p>
-<p>
-A complete deterministic compiler pipeline that translates structured English queries into verified, executable SQL without relying on probabilistic black-box translation.
-</p>
-<p><b>Tech Stack:</b> <code>Python</code> · <code>FastAPI</code> · <code>SQLite</code> · <code>Recursive-Descent Parser</code> · <code>JavaScript</code></p>
-<p><b>Architecture &amp; Engineering Highlights:</b></p>
-<ul>
-<li>Built a four-stage compilation pipeline: lexical analysis (tokenization) → recursive-descent syntax parsing → schema-aware semantic validation → SQL code generation.</li>
-<li>Supported <code>SELECT</code>, <code>JOIN</code>, <code>GROUP BY</code>, <code>ORDER BY</code>, aggregates, and guarded <code>UPDATE</code>/<code>DELETE</code> statements (enforcing mandatory <code>WHERE</code> clauses).</li>
-<li>Exposed an interactive frontend inspector visualizing token streams, abstract parse trees, semantic checks, and query execution results.</li>
-</ul>
-<p>
-<a href="https://github.com/Ravitejeshnagasarapu/Controlled-Natural-Language-to-SQL-Compiler">
-<img src="https://img.shields.io/badge/Explore_Repository-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="Explore CNL to SQL Compiler Repository" />
-</a>
-</p>
-</td>
-<td width="50%" valign="top">
-<h3>04 · <a href="https://github.com/Ravitejeshnagasarapu/Secure-IoT-Device-Authentication-Using-Lightweight-Cryptography">SIOTDA — Secure IoT Device Authentication</a></h3>
-<p>
-<img src="https://img.shields.io/badge/STATUS-PUBLIC%20REPO-10B981?style=flat-square" alt="Public Repository" />
-<img src="https://img.shields.io/badge/TYPE-TEAM%20SECURITY%20PROJECT-06B6D4?style=flat-square" alt="Team Security Project" />
-</p>
-<p>
-A lightweight cryptographic authentication and encrypted messaging framework tailored for resource-constrained IoT networks, complete with an interactive adversarial attack simulator.
-</p>
-<p><b>Tech Stack:</b> <code>Python</code> · <code>Flask</code> · <code>Flask-SocketIO</code> · <code>SQLite (WAL)</code> · <code>HMAC-SHA256</code> · <code>AES-256-GCM</code> · <code>Web Crypto API</code></p>
-<p><b>Architecture &amp; Engineering Highlights:</b></p>
-<ul>
-<li>Designed a three-tier architecture (Web Crypto API client, Flask-SocketIO WebSocket server, and SQLite WAL persistence layer).</li>
-<li>Implemented nonce-based challenge-response authentication via <code>HMAC-SHA256</code> (ensuring Pre-Shared Keys never traverse the network) and per-message <code>AES-256-GCM</code> encryption with random IVs.</li>
-<li>Built a live attack-simulation module demonstrating real-time detection and mitigation of Replay, Device Spoofing, and Man-in-the-Middle (MITM) attacks.</li>
-</ul>
-<p>
-<a href="https://github.com/Ravitejeshnagasarapu/Secure-IoT-Device-Authentication-Using-Lightweight-Cryptography">
-<img src="https://img.shields.io/badge/Explore_Repository-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="Explore SIOTDA Repository" />
-</a>
-</p>
-</td>
-</tr>
-</table>
-
-<!-- ======================== SECTION 05: GITHUB ANALYTICS ======================== -->
-
-05  GitHub Activity & Analytics
+🛠️ 02 · 3D Technical Arsenal & Tooling
 
 <div align="center">
 
 <table width="100%">
 <tr>
-<td width="52%" align="center" valign="middle">
+<td width="25%" align="center" valign="top">
+<h4>💻 Languages</h4>
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark&perline=3" alt="Languages: Java, Python, JavaScript, HTML5, CSS3" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-00F2FE?style=flat-square&logo=databricks&logoColor=050814" alt="SQL" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=050814" alt="JavaScript" />
+</p>
+</td>
+<td width="25%" align="center" valign="top">
+<h4>⚙️ Backend &amp; APIs</h4>
+<p>
+<img src="https://skillicons.dev/icons?i=spring,fastapi,flask&theme=dark&perline=3" alt="Backend: Spring Boot, FastAPI, Flask" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Flask_SocketIO-8B5CF6?style=flat-square&logo=flask&logoColor=white" alt="Flask-SocketIO" />
+<img src="https://img.shields.io/badge/REST_%26_SSE-3B82F6?style=flat-square" alt="REST and SSE" />
+</p>
+</td>
+<td width="25%" align="center" valign="top">
+<h4>🗄️ Data &amp; Storage</h4>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark&perline=2" alt="Databases: MySQL, SQLite" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/SQLite_(WAL)-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite WAL" />
+<img src="https://img.shields.io/badge/Schema_Design-10B981?style=flat-square" alt="Schema Design" />
+<img src="https://img.shields.io/badge/Query_Compiler-06B6D4?style=flat-square" alt="Query Compiler" />
+</p>
+</td>
+<td width="25%" align="center" valign="top">
+<h4>🧰 DevOps &amp; Systems</h4>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark&perline=2" alt="Tools: Git, GitHub, VS Code, Linux" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/Linux_Sandbox-FCC624?style=flat-square&logo=linux&logoColor=050814" alt="Linux Sandbox" />
+<img src="https://img.shields.io/badge/HMAC_%2F_AES--GCM-F43F5E?style=flat-square" alt="HMAC and AES-GCM" />
+<img src="https://img.shields.io/badge/yt--dlp_%26_FFmpeg-A855F7?style=flat-square" alt="yt-dlp and FFmpeg" />
+</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- ANIMATED GRADIENT DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,35:3B82F6,70:8B5CF6,100:EC4899&height=3" width="100%" alt="Neon Gradient Divider" />
+
+<!-- ======================== SECTION 03: INTERNSHIP EXPERIENCE ======================== -->
+
+💼 03 · Professional Internship Experience
+
+<table width="100%">
+<tr>
+<td valign="top">
+<p>
+<img src="https://img.shields.io/badge/%F0%9F%93%85%20MAY%202026%20%E2%80%93%20JULY%202026-00F2FE?style=for-the-badge&labelColor=050814&logoColor=white" alt="May 2026 to July 2026" />
+<img src="https://img.shields.io/badge/%F0%9F%8F%9B%EF%B8%8F%20IIITDM%20KANCHEEPURAM-8B5CF6?style=for-the-badge&labelColor=050814" alt="IIITDM Kancheepuram" />
+<img src="https://img.shields.io/badge/%F0%9F%A4%96%20PROJECT-CODETUTOR%20AI-10B981?style=for-the-badge&labelColor=050814" alt="Project: CodeTutor AI" />
+</p>
+<h3>Software Development Intern — <a href="https://www.iiitdm.ac.in/">Indian Institute of Information Technology, Design &amp; Manufacturing (IIITDM), Kancheepuram</a></h3>
+<p>
+<b>Mode:</b> Remote · Institutional Research &nbsp;|&nbsp; <b>Faculty Guide:</b> <b>Dr. Noor Mahammad SK</b>, Head of Department, CSE
+</p>
+<p>
+Spearheaded backend engineering for <b>CodeTutor</b>, an AI-powered programming education platform that enables students to generate, explain, statically analyze, and safely execute untrusted code inside an interactive learning environment.
+</p>
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+<h4>🧱 1. FastAPI Service Architecture</h4>
+<ul>
+<li>Designed modular <b>FastAPI</b> services and clean REST API contracts linking the web client to backend workers.</li>
+<li>Built strict request validation schemas and centralized exception-handling middleware for resilient API responses.</li>
+</ul>
+</td>
+<td width="33%" valign="top">
+<h4>🧠 2. Multi-LLM Orchestration</h4>
+<ul>
+<li>Integrated multiple <b>Large Language Models</b> for automated code synthesis, debugging hints, and static explanation.</li>
+<li>Engineered deterministic response parsers to structure and sanitize raw LLM completions before client delivery.</li>
+</ul>
+</td>
+<td width="34%" valign="top">
+<h4>🛡️ 3. Sandboxed Code Execution</h4>
+<ul>
+<li>Implemented isolated, <b>sandboxed execution workflows</b> to safely run untrusted student code submissions.</li>
+<li>Conducted end-to-end integration testing, bug triage, and response-latency optimization across the platform.</li>
+</ul>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<!-- ANIMATED GRADIENT DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,35:8B5CF6,70:3B82F6,100:00F2FE&height=3" width="100%" alt="Neon Gradient Divider" />
+
+<!-- ======================== SECTION 04: FEATURED PROJECTS BENTO GRID ======================== -->
+
+🚀 04 · Featured Engineering Projects
+
+<table width="100%">
+<tr>
+<!-- PROJECT 1: CODETUTOR -->
+<td width="50%" valign="top">
+<p>
+<img src="https://img.shields.io/badge/01-CODETUTOR%20AI-8B5CF6?style=for-the-badge&labelColor=050814" alt="01 CodeTutor AI" />
+<img src="https://img.shields.io/badge/PRIVATE%20RESEARCH-F43F5E?style=for-the-badge&logo=lock&logoColor=white&labelColor=050814" alt="Private Research Repository" />
+</p>
+<h3>🤖 CodeTutor — AI Tutor for Secure Programming Education</h3>
+<p>
+<i>LLM-integrated educational platform built at IIITDM Kancheepuram for AI-assisted code generation, analysis, and sandboxed execution.</i>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Multi--LLM-8B5CF6?style=flat-square" alt="Multi-LLM" />
+<img src="https://img.shields.io/badge/Linux_Sandbox-10B981?style=flat-square" alt="Linux Sandbox" />
+</p>
+<ul>
+<li><b>REST API Layer:</b> Architected asynchronous FastAPI endpoints connecting the interactive frontend, backend core, and LLM inference layer.</li>
+<li><b>Sandboxed Runtime:</b> Built secure, isolated execution workflows to evaluate untrusted student code without exposing host resources.</li>
+<li><b>Reliability:</b> Enforced structured payload validation, response sanitization, and centralized error handling.</li>
+</ul>
+<p>
+<img src="https://img.shields.io/badge/🔒Institutional_Research_Policy-Source_Private-1E293B?style=for-the-badge" alt="Institutional Research Policy - Source Private" />
+</p>
+</td>
+<!-- PROJECT 2: VIDFORGE -->
+<td width="50%" valign="top">
+<p>
+<img src="https://img.shields.io/badge/02-VIDFORGE-00F2FE?style=for-the-badge&labelColor=050814" alt="02 VidForge" />
+<img src="https://img.shields.io/badge/PUBLIC%20REPO-10B981?style=for-the-badge&labelColor=050814" alt="Public Repository" />
+</p>
+<h3>🎬 <a href="https://github.com/Ravitejeshnagasarapu/VidForge">VidForge</a> — Java Media Download Manager</h3>
+<p>
+<i>Production-oriented desktop &amp; web application pairing a Java backend with <code>yt-dlp</code> and <code>FFmpeg</code> for real-time resumable media downloads.</i>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/SSE_Streaming-00F2FE?style=flat-square" alt="SSE Streaming" />
+<img src="https://img.shields.io/badge/FFmpeg%26_yt--dlp-EC4899?style=flat-square" alt="FFmpeg and yt-dlp" />
+<img src="https://img.shields.io/badge/HTML_/CSS/_JS-F7DF1E?style=flat-square" alt="HTML CSS JS" />
+</p>
+<ul>
+<li><b>Real-Time Telemetry (SSE):</b> Streams live download speed, ETA, and progress events from the Java engine to the web UI via Server-Sent Events.</li>
+<li><b>Media Pipeline:</b> Supports up to 4K video resolution, MP3/FLAC audio extraction, and automated metadata, thumbnail, and subtitle embedding.</li>
+<li><b>Fault Tolerance:</b> Modular separation between controller and process workers with automatic retry on network drops and persistent history.</li>
+</ul>
+<p>
+<a href="https://github.com/Ravitejeshnagasarapu/VidForge">
+<img src="https://img.shields.io/badge/🚀_Launch_Repository-VidForge-3B82F6?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1120" alt="Launch VidForge Repository" />
+</a>
+</p>
+</td>
+</tr>
+<tr>
+<!-- PROJECT 3: CNL TO SQL COMPILER -->
+<td width="50%" valign="top">
+<p>
+<img src="https://img.shields.io/badge/03-CNL%20TO%20SQL%20COMPILER-3B82F6?style=for-the-badge&labelColor=050814" alt="03 CNL to SQL Compiler" />
+<img src="https://img.shields.io/badge/PUBLIC%20REPO-10B981?style=for-the-badge&labelColor=050814" alt="Public Repository" />
+</p>
+<h3>🗣️ <a href="https://github.com/Ravitejeshnagasarapu/Controlled-Natural-Language-to-SQL-Compiler">Controlled Natural Language to SQL Compiler</a></h3>
+<p>
+<i>Full deterministic compiler pipeline translating structured English sentences into verified, executable SQL queries.</i>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/Compiler_Design-F59E0B?style=flat-square" alt="Compiler Design" />
+</p>
+<ul>
+<li><b>4-Stage Compiler Architecture:</b> Lexical analysis (tokenizer) → recursive-descent syntax parser → schema-aware semantic validator → SQL generator.</li>
+<li><b>Safe Query Execution:</b> Supports <code>SELECT</code>, <code>JOIN</code>, <code>GROUP BY</code>, <code>ORDER BY</code>, aggregates, and guarded <code>UPDATE</code>/<code>DELETE</code> with mandatory <code>WHERE</code> clauses.</li>
+<li><b>Visual Stage Inspector:</b> Interactive UI inspecting token streams, parse trees, schema validation diagnostics, and live SQL output.</li>
+</ul>
+<p>
+<a href="https://github.com/Ravitejeshnagasarapu/Controlled-Natural-Language-to-SQL-Compiler">
+<img src="https://img.shields.io/badge/🚀_Launch_Repository-CNL--to--SQL-3B82F6?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1120" alt="Launch CNL to SQL Compiler Repository" />
+</a>
+</p>
+</td>
+<!-- PROJECT 4: SIOTDA -->
+<td width="50%" valign="top">
+<p>
+<img src="https://img.shields.io/badge/04-SIOTDA%20SECURITY-EC4899?style=for-the-badge&labelColor=050814" alt="04 SIOTDA Security" />
+<img src="https://img.shields.io/badge/PUBLIC%20REPO-10B981?style=for-the-badge&labelColor=050814" alt="Public Repository" />
+</p>
+<h3>🔐 <a href="https://github.com/Ravitejeshnagasarapu/Secure-IoT-Device-Authentication-Using-Lightweight-Cryptography">SIOTDA — Secure IoT Device Authentication</a></h3>
+<p>
+<i>Lightweight cryptographic authentication &amp; encrypted WebSocket messaging framework for constrained IoT networks with a live attack simulator.</i>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Flask_SocketIO-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask SocketIO" />
+<img src="https://img.shields.io/badge/HMAC--SHA256-EC4899?style=flat-square" alt="HMAC-SHA256" />
+<img src="https://img.shields.io/badge/AES--256--GCM-8B5CF6?style=flat-square" alt="AES-256-GCM" />
+</p>
+<ul>
+<li><b>Zero-Exposure Handshake:</b> Nonce-based challenge-response authentication using <code>HMAC-SHA256</code> where Pre-Shared Keys never cross the wire.</li>
+<li><b>End-to-End Encryption:</b> Per-message <code>AES-256-GCM</code> authenticated encryption with fresh random IVs persisted in SQLite (WAL mode).</li>
+<li><b>Adversarial Simulator:</b> Real-time WebSocket security dashboard simulating and blocking Replay, Device Spoofing, and MITM attacks.</li>
+</ul>
+<p>
+<a href="https://github.com/Ravitejeshnagasarapu/Secure-IoT-Device-Authentication-Using-Lightweight-Cryptography">
+<img src="https://img.shields.io/badge/🚀_Launch_Repository-SIOTDA-3B82F6?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1120" alt="Launch SIOTDA Repository" />
+</a>
+</p>
+</td>
+</tr>
+</table>
+
+<!-- ANIMATED GRADIENT DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,35:3B82F6,70:8B5CF6,100:EC4899&height=3" width="100%" alt="Neon Gradient Divider" />
+
+<!-- ======================== SECTION 05: TELEMETRY & ANALYTICS ======================== -->
+
+📊 05 · Live GitHub Telemetry & Contribution Matrix
+
+<div align="center">
+
+<!-- STREAK STATS + TOP LANGUAGES BY REPO -->
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="middle">
 <a href="https://github.com/Ravitejeshnagasarapu">
-<img src="https://github-readme-stats.vercel.app/api?username=Ravitejeshnagasarapu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=38BDF8&icon_color=06B6D4&text_color=E2E8F0" width="100%" alt="Ravi Tejesh Nagasarapu GitHub Statistics" />
+<img src="https://streak-stats.demolab.com?user=Ravitejeshnagasarapu&theme=tokyonight&hide_border=true&background=050814&ring=00F2FE&fire=EC4899&currStreakLabel=38BDF8&sideNums=F8FAFC&currStreakNum=FFFFFF&sideLabels=94A3B8&dates=64748B" width="100%" alt="GitHub Contribution Streak Stats" />
 </a>
 </td>
-<td width="48%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
 <a href="https://github.com/Ravitejeshnagasarapu">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravitejeshnagasarapu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=38BDF8&text_color=E2E8F0&langs_count=6" width="100%" alt="Most Used Programming Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ravitejeshnagasarapu&theme=tokyonight" width="100%" alt="Most Used Programming Languages" />
 </a>
 </td>
 </tr>
 </table>
 
-<a href="https://github.com/Ravitejeshnagasarapu">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravitejeshnagasarapu&theme=tokyo-night&bg_color=0B0F19&color=E2E8F0&line=3B82F6&point=06B6D4&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph" />
-</a>
-
-
-
-
-
+<!-- ANIMATED 3D CONTRIBUTION SNAKE -->
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg" />
@@ -306,42 +370,48 @@ A lightweight cryptographic authentication and encrypted messaging framework tai
 
 </div>
 
+<!-- ANIMATED GRADIENT DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,35:8B5CF6,70:3B82F6,100:00F2FE&height=3" width="100%" alt="Neon Gradient Divider" />
+
 <!-- ======================== SECTION 06: LET'S CONNECT ======================== -->
 
-06  Let's Connect
+🤝 06 · Initialize Connection
+
+<div align="center">
 
 <table width="100%">
 <tr>
 <td align="center">
 <br/>
-<h3>Open to Backend Engineer, Java Developer &amp; Software Engineering Opportunities</h3>
+<h3>⚡ Ready to Architect Reliable Backend Systems Together?</h3>
 <p>
-Available for <b>software engineering internships</b>, <b>full-time graduate roles (2027 batch)</b>, and <b>backend systems collaborations</b>.<br/>
-If you are hiring or building scalable backend systems, I would love to connect.
+Actively seeking <b>Backend Engineer</b>, <b>Java Developer</b>, and <b>Software Engineer (SDE)</b> roles — including <b>internships</b> and <b>2027 New Grad opportunities</b>.
 </p>
 <p>
 <a href="https://www.linkedin.com/in/ravitejeshnagasarapu">
-<img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050814" alt="Connect on LinkedIn" />
 </a>
 &nbsp;
 <a href="https://ravitejeshnagasarapu.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Explore_Work-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Portfolio Website" />
+<img src="https://img.shields.io/badge/Portfolio-Interactive_Site-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=050814&labelColor=050814" alt="Explore Portfolio Website" />
 </a>
 &nbsp;
 <a href="https://github.com/Ravitejeshnagasarapu">
-<img src="https://img.shields.io/badge/GitHub-Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+<img src="https://img.shields.io/badge/GitHub-Follow_Work-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=050814" alt="Follow on GitHub" />
 </a>
 &nbsp;
 <a href="mailto:ravitejesh23@gmail.com">
-<img src="https://img.shields.io/badge/Email-ravitejesh23%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email to ravitejesh23@gmail.com" />
+<img src="https://img.shields.io/badge/Email-ravitejesh23%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050814" alt="Send Email to ravitejesh23@gmail.com" />
 </a>
 </p>
 <p>
-<img src="https://komarev.com/ghpvc/?username=Ravitejeshnagasarapu&label=PROFILE%20VIEWS&color=3B82F6&style=flat-square" alt="GitHub Profile Views Counter" />
-</p>
-<p>
-<sub><b> engineered with precision · clean architecture · reliable backend systems </b></sub>
+<img src="https://komarev.com/ghpvc/?username=Ravitejeshnagasarapu&label=PROFILE%20VIEWS&color=00F2FE&style=for-the-badge&labelColor=050814" alt="GitHub Profile Views Counter" />
 </p>
 </td>
 </tr>
 </table>
+
+<!-- ANIMATED WAVING FOOTER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050814,25:1E3A8A,60:4F46E5,100:00F2FE&height=120&section=footer&text=Engineered%20with%20Precision%20%C2%B7%20Ravi%20Tejesh%20Nagasarapu&fontSize=16&fontColor=E2E8F0&fontAlignY=68&animation=fadeIn" width="100%" alt="Animated Waving Footer" />
+
+</div>
