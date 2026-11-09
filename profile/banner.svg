@@ -1,0 +1,205 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%" height="100%">
+  <defs>
+    <!-- Deep Cosmic Aurora Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050814"/>
+      <stop offset="45%" stop-color="#0B1120"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+
+    <!-- Vibrant Multi-Stop Neon Accent Gradient -->
+    <linearGradient id="neonGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE"/>
+      <stop offset="35%" stop-color="#3B82F6"/>
+      <stop offset="70%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#EC4899"/>
+    </linearGradient>
+
+    <!-- 3D Cube Top / Left / Right Gradients -->
+    <linearGradient id="cubeTop" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0.75"/>
+    </linearGradient>
+    <linearGradient id="cubeLeft" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#1D4ED8" stop-opacity="0.65"/>
+    </linearGradient>
+    <linearGradient id="cubeRight" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1E40AF" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#0F172A" stop-opacity="0.8"/>
+    </linearGradient>
+
+    <linearGradient id="cubeTopPurple" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C084FC" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.75"/>
+    </linearGradient>
+    <linearGradient id="cubeLeftPurple" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#5B21B6" stop-opacity="0.65"/>
+    </linearGradient>
+    <linearGradient id="cubeRightPurple" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#4C1D95" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#1E1B4B" stop-opacity="0.8"/>
+    </linearGradient>
+
+    <!-- Ambient Glow Orbs -->
+    <radialGradient id="orbCyan" cx="18%" cy="28%" r="40%">
+      <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#050814" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbViolet" cx="82%" cy="72%" r="42%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.26"/>
+      <stop offset="100%" stop-color="#050814" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- 3D Perspective Grid Pattern -->
+    <pattern id="isoGrid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#1E293B" stroke-width="1" stroke-opacity="0.6"/>
+      <circle cx="48" cy="48" r="1" fill="#38BDF8" opacity="0.35"/>
+    </pattern>
+
+    <!-- Soft Drop Shadow for 3D Glass Card -->
+    <filter id="glowShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="16" flood-color="#000000" flood-opacity="0.65"/>
+    </filter>
+  </defs>
+
+  <!-- Base Canvas -->
+  <rect width="1200" height="340" rx="20" fill="url(#bgGrad)"/>
+  <rect width="1200" height="340" rx="20" fill="url(#isoGrid)"/>
+  <rect width="1200" height="340" rx="20" fill="url(#orbCyan)"/>
+  <rect width="1200" height="340" rx="20" fill="url(#orbViolet)"/>
+
+  <!-- 3D Perspective Floor Horizon Lines -->
+  <g stroke="url(#neonGrad)" stroke-opacity="0.22" stroke-width="1">
+    <line x1="0" y1="290" x2="1200" y2="290"/>
+    <line x1="0" y1="312" x2="1200" y2="312"/>
+    <line x1="0" y1="330" x2="1200" y2="330"/>
+    <line x1="600" y1="240" x2="100" y2="340"/>
+    <line x1="600" y1="240" x2="350" y2="340"/>
+    <line x1="600" y1="240" x2="600" y2="340"/>
+    <line x1="600" y1="240" x2="850" y2="340"/>
+    <line x1="600" y1="240" x2="1100" y2="340"/>
+  </g>
+
+  <!-- Animated Top & Bottom Neon Laser Borders -->
+  <rect x="0" y="0" width="1200" height="4" fill="url(#neonGrad)"/>
+  <rect x="0" y="336" width="1200" height="4" fill="url(#neonGrad)" opacity="0.8"/>
+
+  <!-- ================= LEFT 3D ISOMETRIC SERVER CLUSTER (ANIMATED) ================= -->
+  <g transform="translate(115, 155)">
+    <animateTransform attributeName="transform" type="translate" values="115,155; 115,141; 115,155" dur="4.5s" repeatCount="indefinite"/>
+    <!-- Base Shadow -->
+    <ellipse cx="0" cy="68" rx="46" ry="14" fill="#00F2FE" opacity="0.18">
+      <animate attributeName="rx" values="46;38;46" dur="4.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.18;0.08;0.18" dur="4.5s" repeatCount="indefinite"/>
+    </ellipse>
+    <!-- Bottom 3D Cube -->
+    <polygon points="0,-10 48,14 0,38 -48,14" fill="url(#cubeTop)"/>
+    <polygon points="-48,14 0,38 0,62 -48,38" fill="url(#cubeLeft)"/>
+    <polygon points="48,14 0,38 0,62 48,38" fill="url(#cubeRight)"/>
+    <!-- Top 3D Cube -->
+    <polygon points="0,-46 48,-22 0,2 -48,-22" fill="url(#cubeTop)"/>
+    <polygon points="-48,-22 0,2 0,26 -48,2" fill="url(#cubeLeft)"/>
+    <polygon points="48,-22 0,2 0,26 48,2" fill="url(#cubeRight)"/>
+    <!-- Glowing Server LEDs -->
+    <circle cx="-24" cy="-6" r="2.8" fill="#00F2FE">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="-14" cy="-1" r="2.8" fill="#10B981">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="-24" cy="30" r="2.8" fill="#38BDF8">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="-14" cy="35" r="2.8" fill="#EC4899">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="1.9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- ================= RIGHT 3D ISOMETRIC AI / CLOUD NODE (ANIMATED) ================= -->
+  <g transform="translate(1085, 155)">
+    <animateTransform attributeName="transform" type="translate" values="1085,155; 1085,143; 1085,155" dur="5s" repeatCount="indefinite"/>
+    <!-- Base Shadow -->
+    <ellipse cx="0" cy="68" rx="46" ry="14" fill="#8B5CF6" opacity="0.2">
+      <animate attributeName="rx" values="46;36;46" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.09;0.2" dur="5s" repeatCount="indefinite"/>
+    </ellipse>
+    <!-- Bottom 3D Cube -->
+    <polygon points="0,-10 48,14 0,38 -48,14" fill="url(#cubeTopPurple)"/>
+    <polygon points="-48,14 0,38 0,62 -48,38" fill="url(#cubeLeftPurple)"/>
+    <polygon points="48,14 0,38 0,62 48,38" fill="url(#cubeRightPurple)"/>
+    <!-- Top 3D Cube -->
+    <polygon points="0,-46 48,-22 0,2 -48,-22" fill="url(#cubeTopPurple)"/>
+    <polygon points="-48,-22 0,2 0,26 -48,2" fill="url(#cubeLeftPurple)"/>
+    <polygon points="48,-22 0,2 0,26 48,2" fill="url(#cubeRightPurple)"/>
+    <!-- Glowing Node Indicators -->
+    <circle cx="24" cy="-6" r="2.8" fill="#F472B6">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="14" cy="-1" r="2.8" fill="#00F2FE">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="1.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="24" cy="30" r="2.8" fill="#A78BFA">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="14" cy="35" r="2.8" fill="#10B981">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="1.7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Animated Data Streams Connecting 3D Nodes to Center Glass Card -->
+  <g fill="none" stroke="url(#neonGrad)" stroke-width="1.8" stroke-dasharray="6 6" opacity="0.65">
+    <path d="M 175 150 C 230 150, 240 170, 285 170">
+      <animate attributeName="stroke-dashoffset" from="24" to="0" dur="1.5s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 1025 150 C 970 150, 960 170, 915 170">
+      <animate attributeName="stroke-dashoffset" from="0" to="24" dur="1.5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- ================= CENTER 3D GLASSMORPHISM HERO CARD ================= -->
+  <rect x="235" y="28" width="730" height="284" rx="18" fill="#0F172A" fill-opacity="0.78" stroke="url(#neonGrad)" stroke-width="1.5" filter="url(#glowShadow)"/>
+
+  <!-- Live Pulsing Status Badge Inside Card -->
+  <g transform="translate(455, 48)">
+    <rect width="290" height="30" rx="15" fill="#1E293B" stroke="#38BDF8" stroke-width="1" stroke-opacity="0.5"/>
+    <circle cx="18" cy="15" r="5" fill="#10B981">
+      <animate attributeName="r" values="4;6.5;4" dur="1.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.4;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="34" y="19" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="700" fill="#F8FAFC" letter-spacing="1.4">OPEN TO BACKEND ROLES · 2027</text>
+  </g>
+
+  <!-- 3D Layered Main Name -->
+  <text x="602" y="134" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="45" font-weight="900" fill="#000000" opacity="0.45" letter-spacing="0.6">
+    Ravi Tejesh Nagasarapu
+  </text>
+  <text x="600" y="132" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="45" font-weight="900" fill="#FFFFFF" letter-spacing="0.6">
+    Ravi Tejesh Nagasarapu
+  </text>
+
+  <!-- Vibrant Gradient Role Title -->
+  <text x="600" y="175" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="800" fill="url(#neonGrad)" letter-spacing="3.2">
+    BACKEND &amp; DISTRIBUTED SYSTEMS ENGINEER
+  </text>
+
+  <!-- Tech Pill Strip Inside 3D Card -->
+  <g transform="translate(310, 198)">
+    <rect width="580" height="36" rx="10" fill="#090D16" stroke="#1E293B" stroke-width="1.2"/>
+    <text x="290" y="23" text-anchor="middle" font-family="'Fira Code', 'JetBrains Mono', Consolas, monospace" font-size="14" font-weight="600" fill="#38BDF8" letter-spacing="0.8">
+      Java  ·  Python  ·  Spring Boot  ·  FastAPI  ·  REST APIs  ·  SQL
+    </text>
+  </g>
+
+  <!-- Academic & Location Sub-bar -->
+  <text x="600" y="268" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="500" fill="#94A3B8" letter-spacing="0.7">
+    🎓 B.Tech CSE (AI) @ IIITDM Kancheepuram (2023–2027)   ·   📍 Chennai, India
+  </text>
+
+  <!-- Bottom Subtle Glowing Accent Bar -->
+  <rect x="480" y="288" width="240" height="3" rx="1.5" fill="url(#neonGrad)">
+    <animate attributeName="width" values="160;280;160" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="520;460;520" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
